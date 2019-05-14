@@ -1,7 +1,7 @@
 Package: servosphereR
 Type: Package
 Title: Analyze Data Generated from Syntech Servosphere Trials
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Jacob T.", "Wittman", email = "wittja01@gmail.com", role = c("aut", "cre")), person("Brian H.", "Aukema", role = "ctb"))
 Description: Functions that facilitate and speed up the analysis of data
     produced by a Syntech servosphere <http://www.ockenfels-syntech.com/products/locomotion-compensation/>,
@@ -33,9 +33,9 @@ Depends: R (>= 2.10)
 Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-02-19 19:30:23 UTC; wittm094
+Packaged: 2019-05-14 18:53:37 UTC; wittm094
 Author: Jacob T. Wittman [aut, cre],
   Brian H. Aukema [ctb]
 Maintainer: Jacob T. Wittman <wittja01@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-03-06 12:30:03 UTC
+Date/Publication: 2019-05-14 19:10:02 UTC
